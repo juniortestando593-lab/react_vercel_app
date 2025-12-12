@@ -1,0 +1,7 @@
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; }
+body { background: #f5f7fb; color: #111; }
+.container { max-width: 900px; margin: 24px auto; padding: 16px; }
+.header { display:flex; justify-content:space-between; align-items:center; margin-bottom:16px; }
+button { padding:8px 12px; border-radius:6px; border:1px solid #ccc; background:#fff; cursor:pointer; }
+button:active { transform: translateY(1px); }
+.card-grid { display:flex; gap:16px; flex-wrap:wrap; }
