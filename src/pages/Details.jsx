@@ -63,7 +63,7 @@ export default function Details() {
           )}
 
           {alreadyFavorited && (
-            <p style={{ marginTop: 12, fontStyle: "italic", color: "#666" }}>
+            <p sty le={{ marginTop: 12, fontStyle: "italic", color: "#666" }}>
               Este livro já está nos favoritos.
             </p>
           )}
