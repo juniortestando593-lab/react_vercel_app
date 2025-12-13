@@ -69,7 +69,7 @@ Pré-requisitos: Node.js instalado.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/react_vercel_app.git](https://github.com/SEU-USUARIO/react_vercel_app.git)
+    git clone [https://github.com/juniortestando593-lab/react_vercel_app]
     ```
 
 2.  **Acesse a pasta do projeto:**
